@@ -2,4 +2,7 @@ theme: jekyll-theme-cayman
 github:
   is_project_page: false
 title: KIX
+
 description: Kickboxing Exercise で 健康的なライフスタイルを！
+
+show_downloads: false
